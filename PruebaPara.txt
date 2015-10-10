@@ -1,0 +1,16 @@
+INICIO
+   pr < v1 = 1 , 9 , + 1 > .
+      pr < v2 = 2 , 8 , + 1 > .
+         otra linea .
+         pr < v3 = 3 , 7 , + 1 > .
+            otra mas .
+         f_pr .
+      f_pr .
+      una en medio .
+   f_pr .
+   el final .
+   pr < v4 = 4 , 6 , + 1 > .
+      una mas .
+   f_pr .
+   final final .
+FIN
